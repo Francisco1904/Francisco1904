@@ -34,6 +34,6 @@ A cataloging app for watch collectors, designed to track collections and create 
 
 ## 📫 Let's Connect
 - 🌐 Portfolio: [Coming Soon]
-- 📥 Email: 
+- 📧 Email: [franciscopontes94@gmail.com](mailto:franciscopontes94@gmail.com)
 
 💡 _"Code is like music – a composition of logic and creativity."_
