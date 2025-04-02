@@ -23,7 +23,7 @@ Spent 8 years producing music professionally – now I build responsive web expe
 ### **🌀 MyOwnWeather-v2 (WIP)**
 A modern web application for weather forecasting, built with Next.js, TypeScript, and Vite, featuring a modern UI and better UX than MyOwnWeather-v1.
 🔗 [Repository](https://github.com/Francisco1904/MyOwnWeather-v2)
-a
+
 ### **🍽️ Little Lemon Restaurant App**
 A front-end capstone project built with React.js, showcasing a responsive design, advanced reservation system, dynamic menu, and SCSS-based styling.
 🔗 [Repository](https://github.com/Francisco1904/react-capstone_project-LL)
