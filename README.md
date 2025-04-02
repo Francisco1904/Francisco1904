@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 - 💡 Passionate about crafting interactive, user-friendly, and visually compelling web applications.
-- 🎯 Currently building: **WhatchApp** (a cataloging app for watch collectors) & refining my **Capstone React App**.
+- 🎯 Currently building: A cataloging app for watch collectors & refining my **MyOwnWeather** app.
 - 👨‍💻 Open to front-end, UX/UI, and hybrid roles.
 - 🌱 Always learning and exploring new tech to enhance my development workflow.
 
