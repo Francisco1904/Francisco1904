@@ -2,8 +2,6 @@
 
 🎨 **Front-End Developer | UX/UI Designer | Web3 Enthusiast**
 
-Spent 8 years producing music professionally – now I build responsive web experiences. Still making music on the side, just with a different kind of keyboard ⌨️
-
 ## 🚀 About Me
 - 💡 Passionate about crafting interactive, user-friendly, and visually compelling web applications.
 - 🎯 Currently building: **WhatchApp** (a cataloging app for watch collectors) & refining my **Capstone React App**.
