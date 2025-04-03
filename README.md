@@ -1,4 +1,4 @@
-# Hi there, I'm Francisco1904 👋
+# Hi there, I'm Francisco 👋
 
 🎨 **Front-End Developer | UX/UI Designer | Web3 Enthusiast**
 
@@ -34,4 +34,4 @@ A cataloging app for watch collectors, designed to track collections and create 
 - 🌐 Portfolio: [Coming Soon]
 - 📧 Email: [franciscopontes94@gmail.com](mailto:franciscopontes94@gmail.com)
 
-💡 _"Code is like music – a composition of logic and creativity."_
+💡 _"Code is like music - a composition of logic and creativity."_
