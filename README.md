@@ -34,7 +34,7 @@ A cataloging app for watch collectors, designed to track collections and create 
 
 I come from a creative background — before coding, I spent nearly a decade producing music.
 
-- 🎵 I’ve produced **hip hop, trap, and afrobeats**, with some of my work going viral on social media and even playing on **BBC Radio 1**. One of my proudest moments was releasing a collaborative album with my cousin — who’s also my best friend and a rapper.  
+- 🎵 I’ve produced **hip hop, trap, and afrobeats**, with some of my work going viral on social media and playing on international radios like **BBC Radio 1**. One of my proudest moments was releasing a collaborative album with my cousin — who’s also my best friend and a rapper.  
 - 🎸 I play guitar, dabble with piano and bass, and still make music casually to clear my mind and stay inspired.  
 - 🎮 I’ve always loved games — from **GTA San Andreas** and **Modern Warfare** to **board games like Catan and Carcassonne**. Game design and storytelling have a big influence on my passion for UI/UX.  
 - 🎬 A big fan of comedy films (especially **French comedies**) and documentaries.  
