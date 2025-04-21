@@ -27,7 +27,7 @@ A front-end capstone project built with React.js, showcasing a responsive design
 🔗 [Repository](https://github.com/Francisco1904/react-capstone_project-LL)
 
 ### **⌚ Watch Collectors App (WIP)**
-A cataloging app for watch collectors, designed to track collections and create a wishlist.
+A cataloging app for watch collectors, designed to track collections, prices, and create a wishlist. Currently going through UX Research and wireframing.
 🔗 Repository: *Coming Soon*
 
 ## 🎧 Outside the Code
