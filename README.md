@@ -26,13 +26,13 @@ A modern web application for weather forecasting, built with Next.js, TypeScript
 A front-end capstone project built with React.js, showcasing a responsive design, advanced reservation system, dynamic menu, and SCSS-based styling.
 🔗 [Repository](https://github.com/Francisco1904/react-capstone_project-LL)
 
-### **⌚ Whatch Collectors App (WIP)**
+### **⌚ Watch Collectors App (WIP)**
 A cataloging app for watch collectors, designed to track collections and create a wishlist.
 🔗 Repository: *Coming Soon*
 
 ## 🎧 Outside the Code
 
-I come from a creative background — before coding, I spent nearly a decade producing music.
+I come from a creative background - before coding, I spent nearly a decade producing music.
 
 - 🎵 I’ve produced **hip hop, trap, and afrobeats**, with some of my work going viral on social media and playing on international radios like **BBC Radio 1**. One of my proudest moments was releasing a collaborative album with my cousin — who’s also my best friend and a rapper.  
 - 🎸 I play guitar, dabble with piano and bass, and still make music casually to clear my mind and stay inspired.  
