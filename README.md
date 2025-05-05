@@ -47,6 +47,7 @@ I come from a creative background - before coding, I spent nearly a decade produ
 
 ## 📫 Let's Connect
 - 🌐 Portfolio: [Coming Soon]
+- 💼 LinkedIn: [www.linkedin.com/in/francisco--carvalho](https://www.linkedin.com/in/francisco--carvalho)
 - 📧 Email: [franciscopontes94@gmail.com](mailto:franciscopontes94@gmail.com)
 
 💡 _"Code is like music - a composition of logic and creativity."_
