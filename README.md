@@ -20,10 +20,12 @@
 ## 📌 Featured Projects
 ### **🌀 MyOwnWeather-v2 (WIP)**
 A modern web application for weather forecasting, built with Next.js, TypeScript, and Vite, featuring a modern UI and better UX than MyOwnWeather-v1.
+🚀 [Live Demo](https://my-own-weather-v2.vercel.app)
 🔗 [Repository](https://github.com/Francisco1904/MyOwnWeather-v2)
 
 ### **🍽️ Little Lemon Restaurant App**
 A front-end capstone project built with React.js, showcasing a responsive design, advanced reservation system, dynamic menu, and SCSS-based styling.
+🚀 [Live Demo](https://littlelemon-capstone-app.vercel.app)
 🔗 [Repository](https://github.com/Francisco1904/react-capstone_project-LL)
 
 ### **⌚ Watch Collectors App (WIP)**
