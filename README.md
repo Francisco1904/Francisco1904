@@ -20,7 +20,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📌 Featured Projects
-### **🌀 MyOwnWeather-v2 (WIP)**
+### **🌀 MyOwnWeather-v2**
 A modern web application for weather forecasting, built with Next.js, TypeScript and TailwindCSS, featuring a modern UI and improved UX than MyOwnWeather-v1.
 🚀 [Live Demo](https://my-own-weather-v2.vercel.app)
 🔗 [Repository](https://github.com/Francisco1904/MyOwnWeather-v2)
